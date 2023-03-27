@@ -1,0 +1,9 @@
+{
+    "json": {
+      "enabled": false,
+      "output": "jsonlogs\\log.json"
+    },
+    "stepDefinitions": [
+        "cypress\\e2e\\stepDefinitions\\**\\*.spec.js"
+    ]   
+  }
